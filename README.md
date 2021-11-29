@@ -22,6 +22,7 @@ New components added:
 
 -  A urdf file for F1tenth
 -  A map for racing environment
+-  a slam_toolbox config file
 
 # Instruction(localization)
 
