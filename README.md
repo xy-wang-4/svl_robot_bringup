@@ -60,7 +60,7 @@ set a intiall pose on rviz2
 
 # SLAM(Mapping)
 
-The simulated map was generated with [Nav2](https://github.com/SteveMacenski/slam_toolbox).
+The simulated map was generated with [slam_toolbox](https://github.com/SteveMacenski/slam_toolbox).
 To generate your own map using F1tenth vehicles, follow the instructions.
 
 # Instruction(Mapping)
