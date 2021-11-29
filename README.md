@@ -23,6 +23,11 @@ New components added:
 -  A map for racing environment
 -  a slam_toolbox config file
 
+# Remaining Issues
+Currently, it is using GPS messages to publish /odom -> /base_link tf for simulation. 
+
+(To do) use wheel odometry / imu. Will be implemented later. 
+
 # Instruction(localization)
 
 sudo apt update
