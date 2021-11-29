@@ -1,9 +1,7 @@
 # This is a forked repo with some modifications for Autoware and F1tenth project
 Assume svl and autoware have been installed and configured.
 
-# Below is the original description
-
-# SVL Robot Bringup
+# SVL Robot Bringup(This part is from the original repo)
 
 `svl_robot_bringup` is a ROS2 package to assist with using [Nav2](https://navigation.ros.org/), the ROS 2 navigation stack, with the SVL Simulator.
 
