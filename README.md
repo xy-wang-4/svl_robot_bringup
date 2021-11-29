@@ -26,7 +26,7 @@ New components added:
 # Remaining Issues
 Currently, it is using GPS messages to publish /odom -> /base_link tf for simulation. 
 
-(To do) use wheel odometry / imu. Will be implemented later. 
+(To do) use wheel odometry / imu. Will be updated later. 
 
 # Instruction(localization)
 
