@@ -25,7 +25,7 @@ New components added:
 -  svl vehicle sensor configuration file
 
 # Remaining Issues
-Currently, it is using GPS messages to publish /odom -> /base_link tf for simulation. 
+Currently, it is using GPS odometry to publish /odom -> /base_link tf for simulation. 
 
 (To do) use wheel odometry / imu. Will be updated later. 
 
