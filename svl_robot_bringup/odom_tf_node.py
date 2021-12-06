@@ -15,7 +15,7 @@ class OdomTfNode(Node):
         super().__init__("odom_tf_publisher")
         self.subscription = self.create_subscription(
             Odometry,
-            'odom',
+            'lgsvl/gnss_odom',
             self.listener_callback,
             10)
         self.subscription
