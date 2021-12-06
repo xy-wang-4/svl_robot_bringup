@@ -22,6 +22,7 @@ New components added:
 -  A urdf file for F1tenth
 -  A map for racing environment
 -  a slam_toolbox config file
+-  svl vehicle sensor configuration file
 
 # Remaining Issues
 Currently, it is using GPS messages to publish /odom -> /base_link tf for simulation. 
